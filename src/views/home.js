@@ -12,7 +12,7 @@ const Home = (props) => {
       <div className="home-container">
           <Helmet>
               <title>Gabriel Nguyen</title>
-              <meta property="og:title" content="Determined Humongous Cod" />
+              <meta property="og:title" content="Gabriel Nguyen" />
           </Helmet>
           <div className="home-header">
               <header data-thq="thq-navbar" className="home-navbar-interactive">
